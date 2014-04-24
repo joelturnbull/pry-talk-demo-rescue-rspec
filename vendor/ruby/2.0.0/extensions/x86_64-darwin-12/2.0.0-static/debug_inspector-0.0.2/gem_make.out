@@ -1,0 +1,59 @@
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling debug_inspector.c
+In file included from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:51:21: error: string.h: No such file or directory
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:61:21: error: stdint.h: No such file or directory
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:64:23: error: inttypes.h: No such file or directory
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:68:19: error: stdio.h: No such file or directory
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:70,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/defines.h:29:21: error: stdlib.h: No such file or directory
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:194,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/Cellar/apple-gcc42/4.2.1-5666.3/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h:10:25: error: limits.h: No such file or directory
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:1567,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/missing.h:23:45: error: math.h: No such file or directory
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:1568,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:36:23: error: sys/types.h: No such file or directory
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:40:22: error: sys/time.h: No such file or directory
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:43,
+                 from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:1568,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/st.h:140: error: expected declaration specifiers or ‘...’ before ‘uint32_t’
+In file included from /Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/ruby.h:1568,
+                 from debug_inspector.c:12:
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:326: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_fdset_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:417: error: expected declaration specifiers or ‘...’ before ‘fd_set’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:417: error: expected declaration specifiers or ‘...’ before ‘fd_set’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:417: error: expected declaration specifiers or ‘...’ before ‘fd_set’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:417: warning: ‘struct timeval’ declared inside parameter list
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:417: warning: its scope is only this definition or declaration, which is probably not what you want
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:418: error: expected declaration specifiers or ‘...’ before ‘rb_fdset_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:418: error: expected declaration specifiers or ‘...’ before ‘rb_fdset_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:418: error: expected declaration specifiers or ‘...’ before ‘rb_fdset_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:418: warning: ‘struct timeval’ declared inside parameter list
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:419: warning: ‘struct timeval’ declared inside parameter list
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:516: error: expected declaration specifiers or ‘...’ before ‘mode_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:595: error: expected declaration specifiers or ‘...’ before ‘pid_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:609: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_fork’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:610: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_fork_err’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:612: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_waitpid’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:613: error: expected ‘)’ before ‘pid’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:614: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_spawn’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:615: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘rb_spawn_err’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:617: error: expected ‘)’ before ‘pid’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:730: error: expected declaration specifiers or ‘...’ before ‘uint32_t’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:853: error: expected ‘)’ before ‘long’
+/Users/joelturnbull/Developer/.rbenv/versions/2.0.0-p353/include/ruby-2.0.0/ruby/intern.h:854: error: expected ‘)’ before ‘long’
+debug_inspector.c: In function ‘Init_debug_inspector’:
+debug_inspector.c:108: warning: incompatible implicit declaration of built-in function ‘strlen’
+make: *** [debug_inspector.o] Error 1
+
+make failed, exit code 2

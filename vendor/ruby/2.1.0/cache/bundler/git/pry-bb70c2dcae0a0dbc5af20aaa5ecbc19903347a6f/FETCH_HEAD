@@ -1,0 +1,76 @@
+f8f4f4af58720ec6bba1cd5e5e1be496650a9af8		branch '0-9-11-stable' of github.com:pry/pry
+4610a87838c54fdb1c175514a03c7e8e6bee6d5a		branch '0-9-12-defer-readline' of github.com:pry/pry
+1def81179b07ca598591e433324bb6ee20d04b7d		branch '0-9-12-stable' of github.com:pry/pry
+8ffc8b32bc440d8428b781af5b9366e58b494434		branch '663-plugin-management' of github.com:pry/pry
+e0525bcef306beca092247f8571179232397ca15		branch 'feature/explicit_block' of github.com:pry/pry
+d88900756e37de83b83b39b5e7a21c4cd9e6a636		branch 'feature/pipe-syntax' of github.com:pry/pry
+665fcf17724aa2c51eb73658351309c7b5f6b4e6		branch 'feature/pipes' of github.com:pry/pry
+e8152e378c15ec7e0fad5f93d430799e432d66c8		branch 'feature/plugin-class' of github.com:pry/pry
+5c21166afe13206dc879aea6089120d8a95a05ea		branch 'feature/pryrc_repl' of github.com:pry/pry
+3d6112aa1632ec2892cc0c7f7a2e24397d60e2a0		branch 'feature/save-source' of github.com:pry/pry
+e410f0ee16656087f126ac5223061c4f4142cb0d		branch 'gem-deps-cleanup' of github.com:pry/pry
+e95b210adf7f63e80bdbd7d265a0091dbe3026a9		branch 'improve_basic_object_support' of github.com:pry/pry
+2416b0ddfb1ca5f6c1c54a96092af34265d3dca4		branch 'list-prompts' of github.com:pry/pry
+487f54852c51e139fd25972a45d5777216b8dbcb		branch 'master' of github.com:pry/pry
+dcdc4776b6c009e835494f462c4016a7d930f2b1		branch 'minitest-bacon' of github.com:pry/pry
+69846b126db0dc9408705ceb83a8d0f3a531aeaf		branch 'refactor/optimize_prefix' of github.com:pry/pry
+b39ba9725b9d720b1f2fd042c0a9912881d69735		branch 'remove_mri18_support' of github.com:pry/pry
+66d1fdd617b0c8fe1031225fc5dbfb4163a53fce		branch 'wip.refactor.callbacks' of github.com:pry/pry
+cc453a908e79c4a1c742d2be2dfe0fb23424308f		branch 'wip.refactor.decompose_repl' of github.com:pry/pry
+7dc91136f6609d4a3231db7cca58568fb3a60d65		branch 'wip.refactor.repl' of github.com:pry/pry
+f623f8332c08164c7428d1b4de83adf69661b8a9		branch 'wip.refactor.repl.amc' of github.com:pry/pry
+a033bca33694899a2cf098ca54ddad38e87faac8		branch 'wip.show-source-doc-super-kw-support' of github.com:pry/pry
+436a58762307aea62bb344cb845a82d51bb62a3e	not-for-merge	tag '0.4.8' of github.com:pry/pry
+683a0638a386b2c6348dc84263373a9b4c1a6afd	not-for-merge	tag 'favorite_version' of github.com:pry/pry
+805c9a9c37a5483f7c28a656446b4b096ee0b136	not-for-merge	tag 'v0.1.3' of github.com:pry/pry
+6f72fc3b9d2cb596a226ea8aa987acf499dd1a6b	not-for-merge	tag 'v0.2.0' of github.com:pry/pry
+89f8968bb913fc420e54005769a0ed46ce3dfef0	not-for-merge	tag 'v0.2.6' of github.com:pry/pry
+143a6e9097bb162d3587b77794ba327e335d275b	not-for-merge	tag 'v0.4.3' of github.com:pry/pry
+d890d7b38dab68e8b4bec33597693afbae5412ca	not-for-merge	tag 'v0.4.4' of github.com:pry/pry
+d0cf3ef153f1e45a6f28c69a19fa8a1d5e96d191	not-for-merge	tag 'v0.4.5' of github.com:pry/pry
+50b136b50b35a1e085b0e5f98c69838247f87ebd	not-for-merge	tag 'v0.5.0' of github.com:pry/pry
+8dab386a81cbc82dfb76442df0a33e9ffd793870	not-for-merge	tag 'v0.5.6' of github.com:pry/pry
+0b9f808c8fe50ca18dee1dfd5317c23ae2ce19cf	not-for-merge	tag 'v0.6.1' of github.com:pry/pry
+a6848f328aa2f981571acba5e38b3f2a312e2b0a	not-for-merge	tag 'v0.6.5' of github.com:pry/pry
+5fafd8107a0caebb8f6804a65a10cdde3d448265	not-for-merge	tag 'v0.6.8' of github.com:pry/pry
+2a36d2eb7b9288416d9b5523c6dc509787cbc4de	not-for-merge	tag 'v0.7.2' of github.com:pry/pry
+96a95a5ce2ca8f60ab5e54c9afc93e370a02f730	not-for-merge	tag 'v0.7.6' of github.com:pry/pry
+fc93bd0f0b69067e8457bd39ef3af1a1219cb7a3	not-for-merge	tag 'v0.8.0' of github.com:pry/pry
+237d15c8c2dace5a328d60c92bbc1f2e771157df	not-for-merge	tag 'v0.8.3' of github.com:pry/pry
+d1039982060c7865e14746891748161c7db004c5	not-for-merge	tag 'v0.9.0' of github.com:pry/pry
+84d7effe6edc0f511e124961e7eda7936f4b7e88	not-for-merge	tag 'v0.9.1' of github.com:pry/pry
+bf40e655c1dfc11af48eeea31702ad7445ed948b	not-for-merge	tag 'v0.9.10' of github.com:pry/pry
+c31f61f81291a67866f7fed87c5008cf0eb4969a	not-for-merge	tag 'v0.9.11' of github.com:pry/pry
+c8054c52213b7208bb3ec7795b6c879a4820f7d8	not-for-merge	tag 'v0.9.11.1' of github.com:pry/pry
+974d66ee59b802859c9cfbf7e979c2c38ecf3780	not-for-merge	tag 'v0.9.11.2' of github.com:pry/pry
+08e9a6b0f2fd145778c81534e8b9e8dc610b3551	not-for-merge	tag 'v0.9.11.3' of github.com:pry/pry
+da2313c46fa871c56dfe6c98b8a4921d47246633	not-for-merge	tag 'v0.9.11.4' of github.com:pry/pry
+dda0eec1d19647df9e1b191b4b9b001479a5819d	not-for-merge	tag 'v0.9.12' of github.com:pry/pry
+11faf24950d4293338ed1694d25b2ece6b5f74ee	not-for-merge	tag 'v0.9.12.1' of github.com:pry/pry
+3fd78e84e8da9e5046ad25de7103bce3192368a4	not-for-merge	tag 'v0.9.12.2' of github.com:pry/pry
+3d8d0b54a2f6dc1d754378d92972ac15e0c5ce3e	not-for-merge	tag 'v0.9.12.3' of github.com:pry/pry
+ba380369511f1c05e710b47857bc46dea7c12978	not-for-merge	tag 'v0.9.12.4' of github.com:pry/pry
+b295c712446e440e9814be737f46a7bbc523d04b	not-for-merge	tag 'v0.9.12.5' of github.com:pry/pry
+8bd80929c6ec402de36d1d0a9d5a2d55386a739f	not-for-merge	tag 'v0.9.12.6' of github.com:pry/pry
+29f710d6772dadfc574a9fa9f3aee9ae66972e37	not-for-merge	tag 'v0.9.2' of github.com:pry/pry
+b7c37d546b797bb5e37304d815a62828e1672aa9	not-for-merge	tag 'v0.9.3' of github.com:pry/pry
+9bb2776dd88621b9866904198ae95e080e682f16	not-for-merge	tag 'v0.9.4' of github.com:pry/pry
+e9a50399b8845b01cb2adaaf53770279da5ec2b4	not-for-merge	tag 'v0.9.5' of github.com:pry/pry
+0b5e2a49f3b0fcfe8990e97c97e25eb59e95a9ed	not-for-merge	tag 'v0.9.6' of github.com:pry/pry
+b7cf8d93eac985d318b0fb4951b4801a548b3a83	not-for-merge	tag 'v0.9.6.1' of github.com:pry/pry
+e48c6b268b5f49ebd323eb73cbc19006acfafe2d	not-for-merge	tag 'v0.9.6.2' of github.com:pry/pry
+c8fc84256fd56b7601ed61e6cac1735949fda643	not-for-merge	tag 'v0.9.7' of github.com:pry/pry
+9a342bd97af8007a99666ec85ebde00fb983e227	not-for-merge	tag 'v0.9.7.1' of github.com:pry/pry
+9b49d4fc8567f88cc0f30948cea988ea728b3338	not-for-merge	tag 'v0.9.7.2' of github.com:pry/pry
+d748f0c461f0eebd3f69a666ba4552b7a512b2de	not-for-merge	tag 'v0.9.7.3' of github.com:pry/pry
+03aeddf41f6743209dfc87495c07d9cd0c68aaeb	not-for-merge	tag 'v0.9.7.4' of github.com:pry/pry
+f364c6a2d3744ec6f5c39c9d2e3b1a5c640ef150	not-for-merge	tag 'v0.9.8' of github.com:pry/pry
+b5aad18580001e2db42481a40f0dd0ddb4e5624b	not-for-merge	tag 'v0.9.8.2' of github.com:pry/pry
+100256c22f6b28a949221bb2822e99a9d7f50028	not-for-merge	tag 'v0.9.8.3' of github.com:pry/pry
+91b05f15b64dd3f8b29aefc0a6f191d7b868c4ec	not-for-merge	tag 'v0.9.8.4' of github.com:pry/pry
+2dfd477c66bfa44d310b9b8d0d2d29b63aecc6d4	not-for-merge	tag 'v0.9.9' of github.com:pry/pry
+eca3caf90c1c1722736bc103c08e20a186e0449a	not-for-merge	tag 'v0.9.9.1' of github.com:pry/pry
+3e08efb699d486e644361c3f777044c330091604	not-for-merge	tag 'v0.9.9.2' of github.com:pry/pry
+cddec4c2f6e5edb899f1bb8c15c1a17fea9657e1	not-for-merge	tag 'v0.9.9.3' of github.com:pry/pry
+d30d6b77e45d75ae68271f4b4ce9cd59bac78943	not-for-merge	tag 'v0.9.9.4' of github.com:pry/pry
+808b4a61ad4cf183faa373fc92d1494f66ff59a4	not-for-merge	tag 'v0.9.9.5' of github.com:pry/pry
